@@ -1,0 +1,5 @@
+Online Learning Algorithms: These algorithms are designed specifically for continuous learning scenarios. They update the model incrementally as new labelled data arrives, enabling the model to adapt and improve over time. Examples of online learning algorithms include Online Gradient Descent, Perceptron, and Passive-Aggressive algorithms.
+
+Neural Networks: Neural networks are powerful models that can be adapted for continuous learning. With their interconnected layers of neurons, neural networks can update their weights and parameters using newly labelled data, allowing for ongoing improvement in predictions.
+
+Ensemble Methods: Ensemble methods, such as Random Forest and Boosting algorithms, are well-suited for continuous learning. They combine multiple individual models and update them incrementally with newly labelled data. This ensemble approach ensures robustness and adaptability to evolving datasets.
